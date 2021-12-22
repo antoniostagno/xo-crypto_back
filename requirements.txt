@@ -1,0 +1,11 @@
+pycoingecko
+schedule
+flask_sqlalchemy
+psycopg2-binary
+flask
+python-dotenv
+flask-jwt-extended
+gunicorn
+flask-cors
+
+
