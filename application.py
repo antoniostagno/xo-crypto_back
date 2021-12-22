@@ -20,5 +20,3 @@ def data():
 
     return jsonify(forecast_data)
 
-
-app.run()
