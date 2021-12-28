@@ -28,3 +28,5 @@ def test():
 
     for price in history['prices']:
         print(price)
+
+
