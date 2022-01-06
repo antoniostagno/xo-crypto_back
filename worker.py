@@ -1,5 +1,5 @@
 import schedule
-from forecast import forecast
+from forecast_prophet import forecast
 
 schedule.every().second.do(forecast)
 while True:
