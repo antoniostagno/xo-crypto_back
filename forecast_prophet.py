@@ -5,7 +5,7 @@ from datetime import datetime
 from datetime import timedelta
 import plotly.graph_objects as go
 from fbprophet import Prophet
-#from fbprophet.plot import plot_plotly, plot_components_plotly
+from fbprophet.plot import plot_plotly, plot_components_plotly
 import warnings
 
 warnings.filterwarnings('ignore')
