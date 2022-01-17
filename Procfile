@@ -1,1 +1,2 @@
-web: gunicorn application:app
+worker: python forecast_prophet.py
+
